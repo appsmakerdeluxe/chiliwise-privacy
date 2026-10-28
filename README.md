@@ -1,6 +1,7 @@
 # ChiliWise Privacy Policy
 
-**Last updated: 28 October 2026**  
+**Last updated: 28 October 2026**
+
 Applies to **ChiliWise Free** and **ChiliWise Pro** for Android, published by AppsMakerDeluxe.
 
 This policy is available in German and English. The apps do not require an account. Neither app includes advertising, analytics, or tracking SDKs, and neither declares Android's `INTERNET` permission. App content is bundled with the installation and core features work offline.
@@ -31,15 +32,15 @@ In Pro, delete individual plants, recipes, stock entries, and tastings in the ap
 
 ## Contact
 
-AppsMakerDeluxe  
-Email: [appsmakerdeluxe@gmail.com](mailto:appsmakerdeluxe@gmail.com)  
+AppsMakerDeluxe
+Email: [appsmakerdeluxe@gmail.com](mailto:appsmakerdeluxe@gmail.com)
 Website: [appsmakerdeluxe.github.io](https://appsmakerdeluxe.github.io/)
 
 ---
 
 # Datenschutzerklärung ChiliWise
 
-**Stand: 28. Oktober 2026**  
+**Stand: 28. Oktober 2026**
 Diese Erklärung gilt für **ChiliWise Free** und **ChiliWise Pro** für Android, veröffentlicht von AppsMakerDeluxe.
 
 Diese Erklärung ist auf Deutsch und Englisch verfügbar. Die Apps benötigen kein Konto. Beide Apps enthalten keine Werbung, Analyse- oder Tracking-SDKs und deklarieren keine Android-Berechtigung `INTERNET`. Die Inhalte werden mit der App installiert; die Kernfunktionen arbeiten offline.
@@ -70,6 +71,8 @@ In Pro kannst du Pflanzen, Rezepte, Vorräte und Verkostungen einzeln in der App
 
 ## Kontakt
 
-AppsMakerDeluxe  
-E-Mail: [appsmakerdeluxe@gmail.com](mailto:appsmakerdeluxe@gmail.com)  
+AppsMakerDeluxe
+
+E-Mail: [appsmakerdeluxe@gmail.com](mailto:appsmakerdeluxe@gmail.com)
+
 Website: [appsmakerdeluxe.github.io](https://appsmakerdeluxe.github.io/)
