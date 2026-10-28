@@ -14,7 +14,7 @@ Android system backup is enabled for Free. Depending on your Android device, acc
 
 ## ChiliWise Pro
 
-Pro lets you enter plant names, varieties, planting dates, growing events, harvest quantities, inventory, recipe ingredients, ratings, and notes. You may select photos through Android's system photo picker for a plant or recipe. Pro copies a selected image into its private app storage, scales it down to a maximum dimension of 1600 pixels, and re-encodes it as JPEG, which removes embedded EXIF metadata. These entries and images remain on your device; they are not sent to AppsMakerDeluxe by the app.
+Pro lets you enter plant names, your own cultivar names, botanical species labels and origin notes, planting dates, growing events, harvest quantities, inventory, recipe ingredients, ratings, personal collection names and collection entries, and notes. You may select photos through Android's system photo picker for a plant, recipe, or your own cultivar. Pro copies a selected image into its private app storage, scales it down to a maximum dimension of 1600 pixels, and re-encodes it as JPEG, which removes embedded EXIF metadata. These entries and images remain on your device; they are not sent to AppsMakerDeluxe by the app.
 
 Pro does not use Android's automatic app-data backup. You can deliberately export a JSON backup, CSV report, or PDF report using Android's document picker. Backups and reports are **not encrypted**. They may contain the text and images included in your records. Android's picker lets you select a local folder or an available document provider; if you choose a cloud or other third-party provider, that provider handles the file under its own terms. The same applies if you share an exported file with another app.
 
@@ -28,7 +28,7 @@ Neither app requests network access: neither app declares `android.permission.IN
 
 In Free, remove favorites in the app or clear the app's storage/uninstall it in Android settings. If Android has created a system backup, delete that backup through the Android or backup-provider controls as well.
 
-In Pro, delete individual plants, recipes, stock entries, and tastings in the app, or clear Pro's app storage/uninstall it in Android settings. This removes the corresponding app-private records and images. Exported copies are outside the app; delete them separately in the folder or provider where you saved them.
+In Pro, delete individual plants, your own cultivars, personal collections and their entries, recipes, stock entries, and tastings in the app, or clear Pro's app storage/uninstall it in Android settings. This removes the corresponding app-private records and images. Exported copies are outside the app; delete them separately in the folder or provider where you saved them.
 
 ## Contact
 
@@ -53,7 +53,7 @@ Die Android-Systemdatensicherung ist für Free aktiviert. Je nach Android-Gerät
 
 ## ChiliWise Pro
 
-In Pro kannst du Pflanzennamen, Sorten, Pflanzdaten, Pflegeereignisse, Erntemengen, Vorräte, Rezeptzutaten, Bewertungen und Notizen eintragen. Über den Android-Systemdialog zur Fotoauswahl kannst du Fotos einer Pflanze oder eines Rezepts auswählen. Pro kopiert das ausgewählte Bild in den privaten App-Speicher, verkleinert es auf höchstens 1600 Pixel Kantenlänge und speichert es nach einer JPEG-Neucodierung. Dadurch werden eingebettete EXIF-Metadaten entfernt. Diese Einträge und Bilder bleiben auf deinem Gerät; die App sendet sie nicht an AppsMakerDeluxe.
+In Pro kannst du Pflanzennamen, eigene Sortennamen, botanische Artenangaben und eigene Herkunftsnotizen, Pflanzdaten, Pflegeereignisse, Erntemengen, Vorräte, Rezeptzutaten, Bewertungen, persönliche Sammlungsnamen und Listeneinträge sowie Notizen eintragen. Über den Android-Systemdialog zur Fotoauswahl kannst du Fotos einer Pflanze, eines Rezepts oder einer eigenen Sorte auswählen. Pro kopiert das ausgewählte Bild in den privaten App-Speicher, verkleinert es auf höchstens 1600 Pixel Kantenlänge und speichert es nach einer JPEG-Neucodierung. Dadurch werden eingebettete EXIF-Metadaten entfernt. Diese Einträge und Bilder bleiben auf deinem Gerät; die App sendet sie nicht an AppsMakerDeluxe.
 
 Die automatische Android-Datensicherung für Pro ist ausgeschaltet. Du kannst bewusst eine JSON-Sicherung, einen CSV-Bericht oder einen PDF-Bericht über den Android-Dateidialog exportieren. Sicherungen und Berichte sind **nicht verschlüsselt**. Sie können Texte und Bilder aus deinen Einträgen enthalten. Im Dateidialog wählst du einen lokalen Ordner oder einen verfügbaren Dokumentanbieter aus. Wenn du einen Cloud- oder anderen Drittanbieter auswählst, verarbeitet dieser Anbieter die Datei nach seinen eigenen Bedingungen. Dasselbe gilt, wenn du eine exportierte Datei über eine andere App teilst.
 
@@ -67,7 +67,7 @@ Keine der beiden Apps fordert Netzwerkzugriff an: `android.permission.INTERNET` 
 
 In Free kannst du Favoriten in der App entfernen oder den App-Speicher in den Android-Einstellungen löschen beziehungsweise die App deinstallieren. Falls Android eine Systemsicherung angelegt hat, lösche diese zusätzlich über Android oder die Einstellungen des Sicherungsanbieters.
 
-In Pro kannst du Pflanzen, Rezepte, Vorräte und Verkostungen einzeln in der App löschen oder den Pro-App-Speicher in den Android-Einstellungen löschen beziehungsweise die App deinstallieren. Dadurch werden die zugehörigen lokalen Datensätze und Bilder entfernt. Exportierte Dateien liegen außerhalb der App und müssen im Ordner beziehungsweise beim Anbieter, in dem du sie gespeichert hast, separat gelöscht werden.
+In Pro kannst du Pflanzen, eigene Sorten, persönliche Sammlungen und deren Einträge, Rezepte, Vorräte und Verkostungen einzeln in der App löschen oder den Pro-App-Speicher in den Android-Einstellungen löschen beziehungsweise die App deinstallieren. Dadurch werden die zugehörigen lokalen Datensätze und Bilder entfernt. Exportierte Dateien liegen außerhalb der App und müssen im Ordner beziehungsweise beim Anbieter, in dem du sie gespeichert hast, separat gelöscht werden.
 
 ## Kontakt
 
