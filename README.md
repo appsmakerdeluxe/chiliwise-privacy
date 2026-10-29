@@ -1,6 +1,6 @@
 # ChiliWise Privacy Policy
 
-**Last updated: 28 October 2026**
+**Last updated: 29 October 2026**
 
 Applies to **ChiliWise Free** and **ChiliWise Pro** for Android, published by AppsMakerDeluxe.
 
@@ -14,7 +14,7 @@ Android system backup is enabled for Free. Depending on your Android device, acc
 
 ## ChiliWise Pro
 
-Pro lets you enter plant names, your own cultivar names, botanical species labels and origin notes, planting dates, growing events, harvest quantities, inventory, recipe ingredients, ratings, personal collection names and collection entries, and notes. You may select photos through Android's system photo picker for a plant, recipe, or your own cultivar. Pro copies a selected image into its private app storage, scales it down to a maximum dimension of 1600 pixels, and re-encodes it as JPEG, which removes embedded EXIF metadata. These entries and images remain on your device; they are not sent to AppsMakerDeluxe by the app.
+Pro lets you enter plant names, your own cultivar names, botanical species labels and origin notes, planting dates, growing events, harvest quantities, inventory, recipe ingredients, ratings, personal collection names and collection entries, and notes. You may select photos through Android's system photo picker for a plant, recipe, or your own cultivar. Pro copies a selected image into its private app storage, scales it down to a maximum dimension of 1600 pixels, and re-encodes it as JPEG, which removes embedded EXIF metadata. These entries and images remain on your device; they are not sent to AppsMakerDeluxe by the app. Notifications are optional and scheduled locally by Android. Tasks remain available in the app if notifications are not allowed; Android power management may delay reminders.
 
 Pro does not use Android's automatic app-data backup. You can deliberately export a JSON backup, CSV report, or PDF report using Android's document picker. Backups and reports are **not encrypted**. They may contain the text and images included in your records. Android's picker lets you select a local folder or an available document provider; if you choose a cloud or other third-party provider, that provider handles the file under its own terms. The same applies if you share an exported file with another app.
 
@@ -53,7 +53,7 @@ Die Android-Systemdatensicherung ist für Free aktiviert. Je nach Android-Gerät
 
 ## ChiliWise Pro
 
-In Pro kannst du Pflanzennamen, eigene Sortennamen, botanische Artenangaben und eigene Herkunftsnotizen, Pflanzdaten, Pflegeereignisse, Erntemengen, Vorräte, Rezeptzutaten, Bewertungen, persönliche Sammlungsnamen und Listeneinträge sowie Notizen eintragen. Über den Android-Systemdialog zur Fotoauswahl kannst du Fotos einer Pflanze, eines Rezepts oder einer eigenen Sorte auswählen. Pro kopiert das ausgewählte Bild in den privaten App-Speicher, verkleinert es auf höchstens 1600 Pixel Kantenlänge und speichert es nach einer JPEG-Neucodierung. Dadurch werden eingebettete EXIF-Metadaten entfernt. Diese Einträge und Bilder bleiben auf deinem Gerät; die App sendet sie nicht an AppsMakerDeluxe.
+In Pro kannst du Pflanzennamen, eigene Sortennamen, botanische Artenangaben und eigene Herkunftsnotizen, Pflanzdaten, Pflegeereignisse, Erntemengen, Vorräte, Rezeptzutaten, Bewertungen, persönliche Sammlungsnamen und Listeneinträge sowie Notizen eintragen. Über den Android-Systemdialog zur Fotoauswahl kannst du Fotos einer Pflanze, eines Rezepts oder einer eigenen Sorte auswählen. Pro kopiert das ausgewählte Bild in den privaten App-Speicher, verkleinert es auf höchstens 1600 Pixel Kantenlänge und speichert es nach einer JPEG-Neucodierung. Dadurch werden eingebettete EXIF-Metadaten entfernt. Diese Einträge und Bilder bleiben auf deinem Gerät; die App sendet sie nicht an AppsMakerDeluxe. Benachrichtigungen sind optional und werden lokal von Android geplant. Aufgaben bleiben auch ohne Benachrichtigungserlaubnis in der App verfügbar; Androids Energiesparfunktionen können Erinnerungen verzögern.
 
 Die automatische Android-Datensicherung für Pro ist ausgeschaltet. Du kannst bewusst eine JSON-Sicherung, einen CSV-Bericht oder einen PDF-Bericht über den Android-Dateidialog exportieren. Sicherungen und Berichte sind **nicht verschlüsselt**. Sie können Texte und Bilder aus deinen Einträgen enthalten. Im Dateidialog wählst du einen lokalen Ordner oder einen verfügbaren Dokumentanbieter aus. Wenn du einen Cloud- oder anderen Drittanbieter auswählst, verarbeitet dieser Anbieter die Datei nach seinen eigenen Bedingungen. Dasselbe gilt, wenn du eine exportierte Datei über eine andere App teilst.
 
